@@ -1,4 +1,5 @@
 hello-world
 ===========
-
-First Repository for GitHub
+Hi,everyone
+This is My First Repository for GitHub!
+OMG, I'm too slow!
